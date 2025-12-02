@@ -1,5 +1,5 @@
 # P.S.A
-This repo is maintained solely to use all the old and deprecated fc's that I obtained at a liquidation site. It will be archived as soon as the mcu on the last fc gives up the ghost. I plan on replacing the rest of the parts (except the mcu ofc) until that happens, after which I'll harvest the board for parts.
+This repo is maintained solely to use all the old and deprecated fc's that I obtained at a liquidation site. It will be archived as soon as the mcu on the last fc gives up the ghost. I plan on replacing the rest of the parts until that happens, after which I'll harvest the board for parts.
 
 # INAV - navigation capable flight controller
 
